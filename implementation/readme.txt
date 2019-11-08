@@ -1,0 +1,1 @@
+podesiti u run konfiguraciji putanju config fajla kao argument komandne linije
